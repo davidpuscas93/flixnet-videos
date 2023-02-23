@@ -1,0 +1,125 @@
+.container {
+  width: 100%;
+  height: 80vh;
+  position: relative;
+}
+
+.leftColumn {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+
+.leftWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 8rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  height: 100%;
+}
+
+.netflixFilmWrapper {
+  display: flex;
+}
+
+.firstLetter {
+  font-size: 3.75rem;
+  line-height: 1;
+  color: var(--red);
+  font-weight: 800;
+}
+
+.film {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: var(--white10);
+  align-self: center;
+}
+
+.title {
+  font-size: 2rem;
+  line-height: 2rem;
+  font-weight: 800;
+  color: var(--white10);
+  -webkit-text-stroke: 1px var(--black); /* width and color */
+}
+
+.subtitle {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  color: var(--white10);
+  -webkit-text-stroke: 1px gray /* width and color */;
+}
+
+.playWrapper {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.playButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.5rem;
+  margin-top: 1.25rem;
+  padding: 0.5rem 1.25rem;
+  background-color: var(--white10);
+  width: 10rem;
+}
+
+.playText {
+  color: rgb(31, 41, 55);
+  font-weight: 600;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  padding-left: 0.25rem;
+  text-align: center;
+}
+
+.banner {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  bottom: 0px;
+  --tw-gradient-stops: var(--tw-gradient-from),
+    var(--tw-gradient-to, rgba(0, 0, 0, 0));
+  background-image: linear-gradient(to top, var(--tw-gradient-stops));
+  --tw-gradient-from: var(--black);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+@media (min-width: 768px) {
+  .leftWrapper {
+    width: 40%;
+  }
+
+  .playButton:hover {
+    background-color: var(--red);
+    box-shadow: var(--shadow30, 0 0 #0000), var(--ring-shadow, 0 0 #0000),
+      var(--shadow30);
+    transition-duration: 400ms;
+  }
+}
+
+@media (min-width: 1024px) {
+  .title {
+    font-size: 3.75rem;
+    line-height: 1;
+    -webkit-text-stroke: 2px var(--black); /* width and color */
+  }
+
+  .subtitle {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+
+  .playText {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
+}

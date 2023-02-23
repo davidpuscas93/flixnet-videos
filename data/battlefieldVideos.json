@@ -1,0 +1,848 @@
+{
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jOZGFZqStS2jM6S7ZckjBIogtsk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qzOP4I6dcCg"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T20:02:12Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 finally listened...",
+        "description": "Battlefield 2042 is making HUGE changes finally coming to the game in Update 3.2. Classes gameplay here, Breakaway remake, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qzOP4I6dcCg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qzOP4I6dcCg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qzOP4I6dcCg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T20:02:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wQWeukC9tjT9-unApOlJPofHoig",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA"
+      },
+      "snippet": {
+        "publishedAt": "2011-09-03T23:56:18Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "jackfrags",
+        "description": "Call of Duty Warzone, COD Warzone, Battlefield, Modern Warfare 2, First Person Shooter Games.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/qQkJOOVoZZdulzrpiqdMSYxBpZTyuOZJEJKlkTNN_o_aRDofeYayaD0tIIBf7dMwZOv_9bIIbas=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/qQkJOOVoZZdulzrpiqdMSYxBpZTyuOZJEJKlkTNN_o_aRDofeYayaD0tIIBf7dMwZOv_9bIIbas=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/qQkJOOVoZZdulzrpiqdMSYxBpZTyuOZJEJKlkTNN_o_aRDofeYayaD0tIIBf7dMwZOv_9bIIbas=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-09-03T23:56:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lbz0CSzL2tVOYuJsW-fnWPUb1sM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t2HJfGubzH8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-21T18:36:45Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 is starting to get serious now...",
+        "description": "Battlefield 2042 is taking things more seriously now and has added a classic Battlefield game mode and tactical looking skins and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t2HJfGubzH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t2HJfGubzH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t2HJfGubzH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-21T18:36:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JctDtKMvvjbjlQYrPl4xfXevoSc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WwjoRcSn3-g"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-13T21:19:20Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 is just ridiculous now...",
+        "description": "Battlefield 2042 is hilarious at the moment, lots of new players and mad stuff happening. Starting to feel like more of a Battlefield ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WwjoRcSn3-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WwjoRcSn3-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WwjoRcSn3-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-13T21:19:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9HecajFncUkcHo-gSWCKoSQVC9E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GiKQCgY-XzY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-05T20:35:49Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 added something controversial...",
+        "description": "Battlefield 2042 is a very divisive game and they just added 128 player Breakthrough back. It's absolute chaos! Let's play and see ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GiKQCgY-XzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GiKQCgY-XzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GiKQCgY-XzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-05T20:35:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fPfom2lxWmPfAl7I9zv8uXBaZmk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jMe22T4hxpw"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-10T20:03:22Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 finally gave in to the players...",
+        "description": "Battlefield 2042 added an absolutely ridiculous 128 player infantry only mode and it is VERY popular right now. Makes the whole ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jMe22T4hxpw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jMe22T4hxpw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jMe22T4hxpw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-10T20:03:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yhvk0ehg10Og1b0TY-TF59Vs0IY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8zsT6uSdtf0"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-17T21:26:00Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 just made a HUGE change...",
+        "description": "Battlefield 2042 released an update in 2023 that makes a big fix for gun recoil and mechanics in the game. Let's test, discuss ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8zsT6uSdtf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8zsT6uSdtf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8zsT6uSdtf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-17T21:26:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nFSoOLY5JIB525VsUEdT_pXYv74",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VMsiMKyXcEY"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-07T19:13:02Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 just had another big improvement...",
+        "description": "Battlefield 2042 dropped a big update today with a new map remake and a classic Battlefield 3 weapon, the M416! Let's play and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VMsiMKyXcEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VMsiMKyXcEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VMsiMKyXcEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-07T19:13:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Je1lczntvMFjA4djiYU8g9igIn0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xjrjwXDFkt8"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-21T19:05:46Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 is starting to look like Battlefield...",
+        "description": "Battlefield 2042 just had a great update with 3 new guns, a new map rework, bug fixes and news on proper classes and gadgets!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xjrjwXDFkt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xjrjwXDFkt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xjrjwXDFkt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-21T19:05:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q4pVzrLCIvmFaf3TjnoSH_ElF1k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HBPiXYlu0hw"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-31T18:41:25Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 Thermal Sights are pretty nasty...",
+        "description": "Battlefield 2042 using Thermal Sights in the new classes update 3.2. Leave a LIKE and a comment, thanks for watching.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HBPiXYlu0hw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HBPiXYlu0hw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HBPiXYlu0hw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-31T18:41:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EZyftxqSg6Q3gdjaVC63Ih8Yy8E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3zojnGyZ-L0"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-18T15:59:55Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 Season 3 Gameplay and Impressions...",
+        "description": "Battlefield 2042 Season 3 gameplay. New map, guns, tanks, rail gun and more. It's looking good so far! Leave a LIKE and a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3zojnGyZ-L0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3zojnGyZ-L0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3zojnGyZ-L0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-18T15:59:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RzP5USB2aZWxPAeoinS7E1hUJ0w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yckIvRtkhXM"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-22T19:59:28Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 finally turned things around today...",
+        "description": "Battlefield 2042 Season 3 is here! Let's play the new map, guns and more. Had a great time on this today. Leave a LIKE and a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yckIvRtkhXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yckIvRtkhXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yckIvRtkhXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-22T19:59:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WIzvr2P29bFavoERhQfKgyx47CM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b0PB8hTKj_Y"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-30T22:51:03Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 Season 2 is this enough...",
+        "description": "Battlefield 2042 season 2 gameplay and impressions Live. Let's play, check out the new stuff and chat games. Leave a LIKE and a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b0PB8hTKj_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b0PB8hTKj_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b0PB8hTKj_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-30T22:51:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QJAhzv7nHZlos_nfNPLUUZaf4Hc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ohjjXWQdMRc"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-12T20:28:32Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 Ruining people...",
+        "description": "Battlefield 2042 ruining players. Hopping back on after a couple weeks off, with the Vector. Leave a LIKE and a comment, thanks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ohjjXWQdMRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ohjjXWQdMRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ohjjXWQdMRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-12T20:28:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7wMEbG8wISBSkxrOnevKHS7ISdc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y-m0Dj8ezWA"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-03T21:25:44Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield is SO much better with friends...",
+        "description": "Battlefield 2042 with friends can be hilarious! Had a blast here with some old friends @TwoAngryGamersTV @PartWelsh in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y-m0Dj8ezWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y-m0Dj8ezWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y-m0Dj8ezWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-03T21:25:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S8EU6U_oGjmxx0jFK61_uTJpmh0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PohpTcVElV0"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T22:41:32Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 just did the impossible...",
+        "description": "Battlefield 2042 has a massive resurgence in players and announced Season 5 with a Battlefield 4 map, new guns, classes and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PohpTcVElV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PohpTcVElV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PohpTcVElV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T22:41:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k38hCUY7utCSTmhv8aANya3XZyE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ocriRs7UHL8"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-19T18:32:23Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 added a ridiculous Sniper Rifle...",
+        "description": "Battlefield 2042 added a Sniper Rifle recently that's absolutely nuts and a blast from the past, the GOL Magnum from BC2! Thanks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ocriRs7UHL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ocriRs7UHL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ocriRs7UHL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-19T18:32:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XKr9BUG4QFfMlJ-vcfvuyLJq-_0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ArkKEXhc-Rs"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T20:49:14Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 just made a weird choice...",
+        "description": "Battlefield 2042 took me to places I never expected today. Playing the new Retribution game mode that is a mix of conquest, rush ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ArkKEXhc-Rs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ArkKEXhc-Rs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ArkKEXhc-Rs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-27T20:49:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wZZ3QmURDhwN254h6qvVT4OKRXs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "12f81AZsMxQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-17T21:44:52Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Using the most Overpowered Gun in Battlefield 2042 ever…",
+        "description": "Battlefield 2042 Rail Gun is still insanely strong. Let's play some breakthrough and be that guy on the hill. Thanks for all the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/12f81AZsMxQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/12f81AZsMxQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/12f81AZsMxQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-17T21:44:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qpm9GTM9HTBWxOiRDsYyYNjBNxo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5R4fAEiv-gg"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-26T18:20:41Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 just copied COD and it kind of works...",
+        "description": "Battlefield 2042 is making regular updates, most recent is a new game mode that is basically Headquarters from COD.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5R4fAEiv-gg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5R4fAEiv-gg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5R4fAEiv-gg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-26T18:20:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dhbHCtN3YOKKoX7ajvHJJzMSZd8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GgTBGoVqk3Q"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-28T20:28:04Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 starting to get good now?!",
+        "description": "Battlefield 2042 is feeling ok right now. Let's do some sniping and revolver shots on the new map and the classic, Arica Harbor!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GgTBGoVqk3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GgTBGoVqk3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GgTBGoVqk3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-28T20:28:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fsNkYqnpKVcdxfATFaraO9eaY0s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KH9DpPsDTRE"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-21T22:49:29Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "This is why you suck at Battlefield 2042",
+        "description": "Battlefield 2042 does not tell you these things. You are spotted so much of the time you are playing and don't know it. Even using ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KH9DpPsDTRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KH9DpPsDTRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KH9DpPsDTRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-21T22:49:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xWdf-EpiOV2f8LvKXEK-nUAdYz8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "239j2lMf6s0"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-05T20:42:52Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 could learn from this...",
+        "description": "Battlefield 2042 keeps adding things from old Battlefield games like the XM8 LMG from Bad Company 2. This thing is nuts and so ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/239j2lMf6s0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/239j2lMf6s0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/239j2lMf6s0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-05T20:42:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oh2oqJ67YaUTx0P4igFkb1JtMNs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qxSZYT41bNA"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-12T18:27:00Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield 2042 is finally headed in the right direction...",
+        "description": "Battlefield 2042 has improved loads recently, and I'm loving the game modes being added. Battlefield 3 Gun Game was so much ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qxSZYT41bNA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qxSZYT41bNA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qxSZYT41bNA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-12T18:27:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "npV-FRgjSu6MYa_oyQNfRYodJXE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jLr60jPnhIY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-19T18:43:48Z",
+        "channelId": "UCw7FkXsC00lH2v2yB5LQoYA",
+        "title": "Battlefield just went full WW2 and it&#39;s awesome!",
+        "description": "Battlefield 2042 has a new World War 2 time travel game mode that plays really well on the new maps. BF1942 classes and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jLr60jPnhIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jLr60jPnhIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jLr60jPnhIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackfrags",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-19T18:43:48Z"
+      }
+    }
+  ]
+}

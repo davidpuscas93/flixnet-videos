@@ -1,0 +1,842 @@
+{
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "58eNVElH2SEO-Htww5hQXJSbybY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kJMyJGjmxcM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T16:00:58Z",
+        "channelId": "UCiHFS5txB0O7jckRk-oK8XQ",
+        "title": "The Xbox Deal to BUY Activision Blizzard is BLOCKED! &quot;You Cant OWN Call of Duty!!&quot;",
+        "description": "Follow me on social media: Facebook: https://www.facebook.com/dreamcastguy Twitter: https://www.twitter.com/dreamcastguy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kJMyJGjmxcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kJMyJGjmxcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kJMyJGjmxcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DreamcastGuy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T16:00:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YF0_JFl3bm6pFVpVvJu1IRXMEdM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tRxpD1lM-kE"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T15:00:45Z",
+        "channelId": "UCr3dtVIm3nL7I-Yjn2PxxIQ",
+        "title": "O XBOX vai ABANDONAR O BRASIL?",
+        "description": "Leon e Nilce falam sobre o rumor da Microsoft parar de distribuir mídia física no país. Esse é um canal de cortes de lives e vídeos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tRxpD1lM-kE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tRxpD1lM-kE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tRxpD1lM-kE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CORTES - Leon e Nilce [Oficial]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T15:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hvHdoQV2ECMW9g5nbbpOlmEToik",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sxz1V2hhHeE"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-07T17:24:50Z",
+        "channelId": "UCiHFS5txB0O7jckRk-oK8XQ",
+        "title": "This Hogwarts Legacy DRAMA needs to STOP! Paid reviews, BOYCOTTS, and Crying Streamers...",
+        "description": "Follow me on social media: Facebook: https://www.facebook.com/dreamcastguy Twitter: https://www.twitter.com/dreamcastguy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sxz1V2hhHeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sxz1V2hhHeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sxz1V2hhHeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DreamcastGuy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-07T17:24:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ss32y8F2dHyNNm0Jx0O5c_QoiiM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5z98mffcwE4"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T15:00:11Z",
+        "channelId": "UCP0GI-IbEZV59oExPioxeHw",
+        "title": "FÃS DO XBOX ABANDONADOS , Fim de Mídia Física, Legendas e Dublagens em PT-BR #xboxbrasil",
+        "description": "XBOX #ps5 #gamepass ✓Rico Games - Cyberpunk 2077 https://bit.ly/39SiZbr ✓Rico Games - Cyberpunk 2077 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5z98mffcwE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5z98mffcwE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5z98mffcwE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Irmãos Piologo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T15:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r3F-cEG4fJ7l42nsbEi0MLlmY5Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PyQUisx4DNI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-07T14:58:35Z",
+        "channelId": "UCyGYHo1qVIeGq3ZLnSDaEcg",
+        "title": "New Starfield Concepts Science of Starfield | Gameplay Time Dilation Gravity &amp; FTL Explained",
+        "description": "Starfield takes place in the 24th century in 2310 some 300 years into the future from the perspective of Earth where we now live.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PyQUisx4DNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PyQUisx4DNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PyQUisx4DNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "colteastwood",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-07T14:58:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bsP0UxgZUF_pB2ObFWUfZvif-0s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6TSlZTpNiRk"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T03:57:56Z",
+        "channelId": "UCJxnwvg6KA3tr04K-tBO-bQ",
+        "title": "New Xbox Series X Leaks! Hogwarts Outrage, Sony Dodging Regulators, Hi Fi Rush Calls Out PS5 Fans",
+        "description": "New Xbox Series X Leaks! Hogwarts Outrage, Sony Dodging Regulators, HiFi Rush Dev Calls Out PS5 Fans & More! Support the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6TSlZTpNiRk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6TSlZTpNiRk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6TSlZTpNiRk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dealer - Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T03:57:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7MUVAVXYAIUieq7Gjed_QZObQhg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4-Et8r1413Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-25T20:00:09Z",
+        "channelId": "UCjBp_7RuDBUYbd1LegWEJ8g",
+        "title": "Developer_Direct, presented by Xbox &amp; Bethesda",
+        "description": "Xbox and Bethesda present the first Developer_Direct, an inside look at some of the biggest games coming to Xbox, PC, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4-Et8r1413Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4-Et8r1413Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4-Et8r1413Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Xbox",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-25T20:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wuWIn-5Y3JpwAYnUrLHlXKm56Pk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "56nujOEjmUs"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-11T15:53:56Z",
+        "channelId": "UCY2vJj30lz8zoP3pY7QEllQ",
+        "title": "De ce Aleg sa Joc pe Xbox Seria S decat pe Playstation 5",
+        "description": "Avem azi un clip needitat sincer si natural in care- iti prezint cateva motive pentru care eu personal si este doar parerea mea ma ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/56nujOEjmUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/56nujOEjmUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/56nujOEjmUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aleximian",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-11T15:53:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Nt1PGLp2pLDPGZFKayruNC6Jm2k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f2upDZRaHwc"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-07T20:15:47Z",
+        "channelId": "UC__Oy3QdB3d9_FHO_XG1PZg",
+        "title": "DKOldies Blocked Me On Twitter. So Let&#39;s Review Their Xbox &#39;Player Pack&#39;",
+        "description": "Use REVIEWTECH to get 55% off your first month at Scentbird https://sbird.co/3Xxw4N2 This month I received... Wild Fire by Raw ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f2upDZRaHwc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f2upDZRaHwc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f2upDZRaHwc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ReviewTechUSA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-07T20:15:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2-TFWii7OEeWQvWbWV_Xv-7RVJo",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCozZmz40Oc6NYD4JtZJgO8A"
+      },
+      "snippet": {
+        "publishedAt": "2007-06-08T13:36:12Z",
+        "channelId": "UCozZmz40Oc6NYD4JtZJgO8A",
+        "title": "Xbox On",
+        "description": "Xbox On is YOUR home for everything Xbox, including all the latest and greatest news, games and updates in the Xbox world.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/2xoLPf2BUyz7_JaHyDxnFccHdIKBrTjfrHSARdFoDUlB9L6lS9kfjJX0fofACQS1qAMXnhHBaA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/2xoLPf2BUyz7_JaHyDxnFccHdIKBrTjfrHSARdFoDUlB9L6lS9kfjJX0fofACQS1qAMXnhHBaA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/2xoLPf2BUyz7_JaHyDxnFccHdIKBrTjfrHSARdFoDUlB9L6lS9kfjJX0fofACQS1qAMXnhHBaA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Xbox On",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-06-08T13:36:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IHgeVkcgqptq52b5PdV0r5WtCFk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UnT_yXBdhpg"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-19T14:19:50Z",
+        "channelId": "UCjYQpLgK_QeVy8uR2HfzSVw",
+        "title": "Merită Xbox Series S după 2 ani ? +Gameplay",
+        "description": "Prețuri console : https://l.profitshare.ro/l/9443832 Discord https://discord.gg/WJ4UBqFZA7 Facebook ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UnT_yXBdhpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UnT_yXBdhpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UnT_yXBdhpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Arena Digitală",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-19T14:19:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dFzDZBS-l9o08V_lNEYKJO_krT4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zMZ_H872w5Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-25T23:14:38Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Xbox and Bethesda Developer Direct Livestream 2023 | Redfall, Minecraft Legends, &amp; More!",
+        "description": "Tune in to the Xbox and Bethesda Developer_Direct Showcase. January 25th at 12pm PT / 3pm ET on IGN! Xbox is promising a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zMZ_H872w5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zMZ_H872w5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zMZ_H872w5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-25T23:14:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zE00ivVar3JqRBxMeXlLow0Nj7M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yk2bSwuMSxY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-25T20:00:08Z",
+        "channelId": "UCjBp_7RuDBUYbd1LegWEJ8g",
+        "title": "[AUDIO DESCRIPTION] Developer_Direct, presented by Xbox &amp; Bethesda",
+        "description": "Xbox and Bethesda present the first Developer_Direct, an inside look at some of the biggest games coming to Xbox, PC, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yk2bSwuMSxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yk2bSwuMSxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yk2bSwuMSxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Xbox",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-25T20:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1H_dDds3--u3ECjybUozMUsYae0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pSN81y9RyEk"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-06T12:45:03Z",
+        "channelId": "UCjFaPUcJU1vwk193mnW_w1w",
+        "title": "Xenia UWP has been ported...to the Xbox | MVG",
+        "description": "A new Standalone UWP Xbox port of Xenia - The Xbox 360 Emulator that originally ran on the PC was released just a few days ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pSN81y9RyEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pSN81y9RyEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pSN81y9RyEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Modern Vintage Gamer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-06T12:45:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z0tF1OnPHvHZjbf2ee3yWHtwH0Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5cKmXJBBXvc"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-06T21:17:21Z",
+        "channelId": "UCCV8Mj59PZkf3ON_U8q4n7g",
+        "title": "Hogwarts Legacy | PS5 - Xbox Series S|X - PC | Graphics Comparison | Analista de Bits",
+        "description": "Buy games at Instant-Gaming for all platforms with discounts! https://www.instant-gaming.com/es/?igr=analistadebits Win a game ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5cKmXJBBXvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5cKmXJBBXvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5cKmXJBBXvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ElAnalistaDeBits",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-06T21:17:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "haiMzBdtV3K4yNS4wgqvxBANK9M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SXrJbD01nWU"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T16:10:19Z",
+        "channelId": "UCDGmZYT5QfvfEXgzaEAYNpg",
+        "title": "XBOX GAME PASS : Les JEUX du début du mois de FÉVRIER révélés !",
+        "description": "Comme à son habitude, Microsoft profite du début du mois de février pour dévoiler la liste des jeux qui vont bientôt intégrer le ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SXrJbD01nWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SXrJbD01nWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SXrJbD01nWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jeux Vidéo Magazine",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T16:10:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QNxKV_MpIPPoUxND9BjPVJFofGQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8YOv7iIln90"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-24T11:43:33Z",
+        "channelId": "UCibISIUAQA-V4tyoHU5nilw",
+        "title": "Xbox Series S: De ce să o cumperi dacă nu are 4K?",
+        "description": "Incredibil de rapidă, deși e cea mai accesibilă din 2020.   Xbox Series S e consola pe care o găsești ușor, însă te face să ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8YOv7iIln90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8YOv7iIln90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8YOv7iIln90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Darwin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-24T11:43:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SQkKLpAk4gRSa4-DTFPBKNB2XYE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iov0eG9WrBM"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-08T15:38:11Z",
+        "channelId": "UCjYQpLgK_QeVy8uR2HfzSVw",
+        "title": "Instalare Xbox pas cu pas ! Activare Gamepass în România !",
+        "description": "Prețuri console : https://l.profitshare.ro/l/9443832 Console Xbox Gamers.ro : https://www.gamers.ro/oferte/5257+5263 SSD ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iov0eG9WrBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iov0eG9WrBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iov0eG9WrBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Arena Digitală",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-08T15:38:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HSQhQCgb1ERKTw0zJ0UHCVqbCf0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aDxpj_XL4o8"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-01T16:30:01Z",
+        "channelId": "UCEJf5cGtkBdZS8Jh2uSW9xw",
+        "title": "Xbox Game Pass: ce beneficii are abonamentul lunar pentru consola Microsoft",
+        "description": "Pentru mai multe știri vizitează site-ul Știrile PRO TV ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aDxpj_XL4o8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aDxpj_XL4o8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aDxpj_XL4o8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Știrile PRO TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-01T16:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LefVrmXBtvKr4yj_aIKphq7FMiE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1SRTwI7D8PI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-01T10:50:28Z",
+        "channelId": "UCulnEM86CegC1oTbqtsLyAA",
+        "title": "Jó valamire az Xbox One S 2023-ban?",
+        "description": "Cdkeysales 30% off code: Hu25 ▭ Windows 10 pro ($16): https://biitt.ly/3v2pi ▭ Windows 11 pro ($22): https://biitt.ly/lnbrO ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1SRTwI7D8PI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1SRTwI7D8PI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1SRTwI7D8PI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "King's Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-01T10:50:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hy7AA4gHR0X1ZKVcCSD7jxwBkYw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MKScS4MyLxc"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-24T17:09:30Z",
+        "channelId": "UCEt-l_stdEd-IPP5RbgmXpA",
+        "title": "Getting New Xbox One X !!! 4K Gaming Console",
+        "description": "Getting New Xbox One X !!! 4K Gaming Console !!! Pls SUB: https://www.youtube.com/ArcadiusKulandSammie We think it is a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MKScS4MyLxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MKScS4MyLxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MKScS4MyLxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArcadiusKul and Sammie Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-24T17:09:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m8b1-mJfvYyQp0Kyfmb11V5Ajqs",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCjBp_7RuDBUYbd1LegWEJ8g"
+      },
+      "snippet": {
+        "publishedAt": "2005-11-01T06:05:35Z",
+        "channelId": "UCjBp_7RuDBUYbd1LegWEJ8g",
+        "title": "Xbox",
+        "description": "The official home of Xbox on YouTube. When everyone plays, we all win. \"The only place on the internet where you can find ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/uYjTe3qkBdHavXk2bCZDegOnwZbOphwxhObf6AhrJKMbDIU6IxNbasJsM2hQ53IudL0Ol9Fe=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/uYjTe3qkBdHavXk2bCZDegOnwZbOphwxhObf6AhrJKMbDIU6IxNbasJsM2hQ53IudL0Ol9Fe=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/uYjTe3qkBdHavXk2bCZDegOnwZbOphwxhObf6AhrJKMbDIU6IxNbasJsM2hQ53IudL0Ol9Fe=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Xbox",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2005-11-01T06:05:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vg4D-aMNoP5QdxI7FvzbaR92zIA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i64cE8ZFE_s"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T04:33:24Z",
+        "channelId": "UCjBp_7RuDBUYbd1LegWEJ8g",
+        "title": "NFL Tuesday Night Gaming All-Star Game Presented by Xbox &amp; TurboTax",
+        "description": "NFL Tuesday Night Gaming, where NFL football stars and gaming creators go head-to-head in the most popular video games on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i64cE8ZFE_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i64cE8ZFE_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i64cE8ZFE_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Xbox",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T04:33:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_SBYu-IqOz-c-KSotiwv7m5t-V0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tljqx72Vd2A"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-04T12:45:03Z",
+        "channelId": "UCjFaPUcJU1vwk193mnW_w1w",
+        "title": "Dolphin on the Xbox just got a MASSIVE update... | MVG",
+        "description": "The Standalone UWP Xbox port of Dolphin we reviewed a few weeks ago on the channel just received a massive update with a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tljqx72Vd2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tljqx72Vd2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tljqx72Vd2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Modern Vintage Gamer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-04T12:45:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MQYfF-fApVfZDtM4DYf8IEy-gIA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WVE25N9Af7Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-07T13:04:48Z",
+        "channelId": "UC7u9o8BHiJyH2_cef_nC7tQ",
+        "title": "Xbox vs Playstation Toothbrush Battle !!",
+        "description": "Let's Find Out Which Viral Video Game Toothbrush Will Clean My Stained Teeth Better!? SHOP HERE: https://fatglob.com Smile ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WVE25N9Af7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WVE25N9Af7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WVE25N9Af7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dental Digest",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-07T13:04:48Z"
+      }
+    }
+  ]
+}

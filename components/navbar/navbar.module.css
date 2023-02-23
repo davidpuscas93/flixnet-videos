@@ -1,0 +1,239 @@
+.glass {
+  background: hsla(0, 0%, 80%, 0.8);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border-bottom: 0.5px solid hsla(0, 0%, 100%, 0.2);
+}
+
+.container {
+  color: var(--white10);
+  position: fixed;
+  top: 0px;
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 1),
+    rgba(50, 50, 50, 0.8)
+  );
+  width: 100%;
+  z-index: 100;
+  max-height: 12vh;
+  box-shadow: var(--shadow30, 0 0 #0000), var(--ring-shadow, 0 0 #0000),
+    var(--shadow30);
+  composes: glass;
+}
+
+.wrapper {
+  display: flex;
+  padding: 1.25rem 1rem;
+}
+
+.logoLink {
+  display: flex;
+  font-weight: 500;
+  font-size: 1rem;
+  align-items: center;
+  color: var(--white10);
+  margin-bottom: 1rem;
+}
+
+.logoWrapper {
+  display: flex;
+  align-items: center;
+  width: 9rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.navItems {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  margin-left: 1.5rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1.25rem;
+  list-style: none;
+  color: var(--black10);
+}
+
+.navItem {
+  background-color: var(--black10);
+  color: var(--white10);
+  text-transform: uppercase;
+  align-self: center;
+  cursor: pointer;
+  margin-right: 0.75rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.navContainer {
+  display: flex;
+  align-items: flex-start;
+  align-self: center;
+  margin-left: auto;
+}
+
+.usernameButton {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  color: var(--black10);
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+}
+
+.username {
+  color: var(--white10);
+  font-size: 1rem;
+}
+
+.navDropdown {
+  position: absolute;
+  margin-top: 1rem;
+  padding: 0.5rem;
+  background-color: var(--black10);
+  box-shadow: var(--shadow30, 0 0 #0000), var(--ring-shadow, 0 0 #0000),
+    var(--shadow30);
+  border-width: 1px;
+  color: var(--white10);
+  border-radius: 0.25rem;
+  border-color: var(--blue);
+}
+
+.navContent {
+  background-color: var(--black10);
+  border-radius: 0.5rem;
+}
+
+.linkName {
+  transition-property: background-color, border-color, color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 200ms;
+  display: block;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.linkName:hover {
+  text-decoration: underline;
+  transition-duration: 400ms;
+}
+
+@media (max-width: 768px) {
+  .usernameButton {
+    padding: 0.25rem;
+  }
+
+  .username {
+    font-size: 0.7rem;
+  }
+
+  .navItem {
+    font-size: 0.7rem;
+    padding: 0.25rem;
+    text-overflow: ellipsis;
+  }
+
+  .navDropdown {
+    margin-top: 0.5rem;
+    padding: 0.25rem;
+  }
+
+  .linkName {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .usernameButton {
+    padding: 0.25rem;
+  }
+
+  .username {
+    font-size: 0.5rem;
+  }
+
+  .navItems {
+    margin-left: 0;
+    padding-left: 1rem;
+  }
+
+  .navItem {
+    font-size: 0.5rem;
+    padding: 0.1rem;
+    border-radius: 0.25rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    min-height: 10vh;
+  }
+
+  .wrapper {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .logoLink {
+    font-size: 2rem;
+    margin-bottom: 0px;
+  }
+
+  .logoWrapper:hover {
+    background-color: var(--black10);
+    box-shadow: var(--shadow30, 0 0 #0000), var(--ring-shadow, 0 0 #0000),
+      var(--shadow30);
+    transition-duration: 400ms;
+  }
+
+  .navContent:hover {
+    background-color: var(--red);
+    box-shadow: var(--shadow30, 0 0 #0000), var(--ring-shadow, 0 0 #0000),
+      var(--shadow30);
+    transition-duration: 400ms;
+  }
+
+  .navItems {
+    font-size: 1rem;
+    margin-left: 3rem;
+  }
+
+  .navItem {
+    font-size: 1rem;
+    margin-right: 1.25rem;
+  }
+
+  .navItem:hover {
+    background-color: var(--red);
+    box-shadow: var(--shadow30, 0 0 #0000), var(--ring-shadow, 0 0 #0000),
+      var(--shadow30);
+    transition-duration: 400ms;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    visibility: hidden;
+  }
+  100% {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    visibility: hidden;
+  }
+}

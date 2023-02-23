@@ -1,0 +1,86 @@
+/**
+ * ==============================================
+ * Dot Collision
+ * ==============================================
+ */
+.collision {
+  position: relative;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+}
+.collision::before,
+.collision::after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: 0;
+}
+.collision::before {
+  left: -10px;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  animation: dot-collision-before 2s infinite ease-in;
+}
+.collision::after {
+  left: 10px;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  animation: dot-collision-after 2s infinite ease-in;
+  animation-delay: 1s;
+}
+
+.white {
+  background-color: var(--white10);
+  color: var(--white10);
+}
+
+.white::before {
+  background-color: var(--white10);
+  color: var(--white10);
+}
+
+.white::after {
+  background-color: var(--white10);
+  color: var(--white10);
+}
+
+.black {
+  background-color: var(--black10);
+  color: var(--black10);
+}
+
+.black::before {
+  background-color: var(--black10);
+  color: var(--black10);
+}
+
+.black::after {
+  background-color: var(--black10);
+  color: var(--black10);
+}
+
+@keyframes dot-collision-before {
+  0%,
+  50%,
+  75%,
+  100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-15px);
+  }
+}
+@keyframes dot-collision-after {
+  0%,
+  50%,
+  75%,
+  100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(15px);
+  }
+}

@@ -1,0 +1,842 @@
+{
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b4T7lqLrzg_5YmYaGZri69ena48",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA"
+      },
+      "snippet": {
+        "publishedAt": "2005-12-16T09:01:28Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "PlayStation",
+        "description": "Welcome to the official home of PlayStation on YouTube. Here you'll find the latest videos about your favorite PlayStation products ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJXGwU0-cOmkQnK-iyfDPAYEd8NhR8oX6XwAEqewS7A=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJXGwU0-cOmkQnK-iyfDPAYEd8NhR8oX6XwAEqewS7A=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJXGwU0-cOmkQnK-iyfDPAYEd8NhR8oX6XwAEqewS7A=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2005-12-16T09:01:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DsNtZfqaQj7dDYnokaRU6zQsK2I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E0c8lJkh72I"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T14:00:12Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Innovative Gameplay Features | PS VR2",
+        "description": "https://www.playstation.com/ps-vr2/ Feel a New Real. Get ready to discover heightened sensory and emotional experiences as ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E0c8lJkh72I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E0c8lJkh72I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E0c8lJkh72I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T14:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eTvMbnSEhvfFcUIO15Ybx0UubXY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bey90wY4s-Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-07T15:00:20Z",
+        "channelId": "UC6yzV_xgKn8r77FkcmZyMSg",
+        "title": "New PS4 &amp; PS5 Games This Week",
+        "description": "This week on PS4 and PS5, Hogwarts Legacy arrives alongside some fantastic offers on the PlayStation Store; check out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bey90wY4s-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bey90wY4s-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bey90wY4s-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation Access",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-07T15:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uHyHy76VbHwzLgj06Du855Lgol4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "01Exo-_rbCA"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-30T17:42:19Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "PlayStation 5 - Official &#39;Live from PS5&#39; Trailer",
+        "description": "The latest trailer for the PlayStation 5 console puts a spotlight on some games available for the system, like God of War Ragnarök, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/01Exo-_rbCA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/01Exo-_rbCA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/01Exo-_rbCA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-30T17:42:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lP3ZKszvJoMFpoVOdEelxsOHhqc",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCqkSQwByb0MJtIlZROz7I-Q"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-01T09:10:59Z",
+        "channelId": "UCqkSQwByb0MJtIlZROz7I-Q",
+        "title": "PlayStation Romania",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJWup61OEr1NgUh5lFLl_IRhhmFXmZFODD0AQoAd4g=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJWup61OEr1NgUh5lFLl_IRhhmFXmZFODD0AQoAd4g=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AL5GRJWup61OEr1NgUh5lFLl_IRhhmFXmZFODD0AQoAd4g=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "PlayStation Romania",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-01T09:10:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cH-3DiXLWwqKfUt7gnX62P4Agok",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yk_bp75SNQc"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-16T16:00:13Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Upcoming Games in 2023 | PS5 &amp; PS4 Games",
+        "description": "https://www.playstation.com/editorial/this-month-on-playstation/23-great-games-to-look-forward-to-in-2023/ From innovative indies ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yk_bp75SNQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yk_bp75SNQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yk_bp75SNQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-16T16:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XfVZcGRT6iL1KsMbVYeY4oOoZhg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xQPvwYMUwHI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-06T00:00:19Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Tekken 8 - Nina Reveal &amp; Gameplay Trailer | PS5 Games",
+        "description": "https://www.playstation.com/en-us/games/tekken-8/ Target located. Nina Williams is back in business in TEKKEN 8! Get your first ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xQPvwYMUwHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xQPvwYMUwHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xQPvwYMUwHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-06T00:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tp0XiYehdAKMqBiEpvdBFNZ7EEE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7JaW4Csq_eM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T15:14:53Z",
+        "channelId": "UC2oSBKxBEyUC_No8ELUkz4w",
+        "title": "PS VR2 - Tráiler de las CARACTERÍSTICAS en ESPAÑOL | 4K | PlayStation España",
+        "description": "Siente la nueva realidad. Prepárate para descubrir cómo nuevos mundos cobran vida ante tus ojos con la nueva tecnología de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7JaW4Csq_eM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7JaW4Csq_eM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7JaW4Csq_eM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation España",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T15:14:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Spwz0Jj6bqy6RPHolPZKRz8XOUY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BpDuFneXBzM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-01T16:00:05Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Upgrade From PS4 to PS5",
+        "description": "https://www.playstation.com/en-us/staying-connected-to-ps4-and-ps5/ Stay within the world of PlayStation® with games, services, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BpDuFneXBzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BpDuFneXBzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BpDuFneXBzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-01T16:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3lSCUX0uDoRBozGtN_mlwpY6AEs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TXwhpK4y-5Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-30T10:00:24Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Live from PS5 - Bringing You The Extraordinary | PS5",
+        "description": "https://playstation.com/livefromps5 This is Live from PS5: Bringing you the extraordinary. Explore incredible worlds and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TXwhpK4y-5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TXwhpK4y-5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TXwhpK4y-5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-30T10:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9N_LCCcAKT2EPvuFcjQ33CKnkoA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iZxKjhrucfA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-05T15:00:44Z",
+        "channelId": "UCKF5151a6yAooOILrYTvfJg",
+        "title": "The PlayStation Portable is Still Amazing in 2023. Here’s Why.",
+        "description": "The PSP is an amazing piece of handheld history, but how does it stack up in 2023? This video is an extensive look at buying, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iZxKjhrucfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iZxKjhrucfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iZxKjhrucfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taki Udon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-05T15:00:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g4LQ_vIs5zqH-0tGsKP2K58KIXY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0rCbfsuKdYw"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-20T13:08:33Z",
+        "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+        "title": "I bought every Playstation Ever.",
+        "description": "Unboxing and Testing every Playstation - PS1, PS2, PS3, PS4, PS5 and beyond! Go to https://darkplates.com to get your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0rCbfsuKdYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0rCbfsuKdYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0rCbfsuKdYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mrwhosetheboss",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-20T13:08:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "llypuQl6XLra9KeFZoBXJwoAawc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UkU3u8xao-M"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-01T16:30:52Z",
+        "channelId": "UC-KM4Su6AEkUNea4TnYbBBg",
+        "title": "PlayStation Plus Essential - February 2023 (PS+)",
+        "description": "This month's PlayStation Plus line-up.. • Olli Olli World | PS4 & PS5 • Mafia Definitive Edition | PS4 • Evil Dead: The Game | PS4 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UkU3u8xao-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UkU3u8xao-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UkU3u8xao-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStationGrenade",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-01T16:30:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3xnME6bkrqJYDzvWQhEhDficVqE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KWz2sDqFRPg"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T14:13:58Z",
+        "channelId": "UC6X0-dNIk9_t8gFnavqN12g",
+        "title": "PlayStation VR2 - Trailer des innovations | PS VR2",
+        "description": "Le PlayStation VR2 sera disponible le 22 février. Toutes les informations et précommande du casque : https://bit.ly/psvr2-pdc ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KWz2sDqFRPg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KWz2sDqFRPg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KWz2sDqFRPg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation France",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T14:13:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jjOeJuBAhBc6H2OutyPmFL_qyj4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3DkWNsYv5dw"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-06T20:18:37Z",
+        "channelId": "UCd6vEDS3SOhWbXZrxbrf_bw",
+        "title": "19 Things PlayStation Fans Never Say",
+        "description": "You'll never hear a PlayStation fan say this! 19 Things PLAYLIST: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3DkWNsYv5dw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3DkWNsYv5dw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3DkWNsYv5dw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SAMTIME",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-06T20:18:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9q4HGroddPi700pdSwJCAVzWzEI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k6JDAbWQg9U"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-30T10:00:04Z",
+        "channelId": "UCaghC0OZwAdidMrbvxkcrPg",
+        "title": "Live from PS5™ - PlayStation®5で、かつてない世界を",
+        "description": "https://www.playstation.com/ja-jp/ps5/ Live from PS5™ 予想だにしないすばらしい体験があなたを待っている。信じられないよう ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k6JDAbWQg9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k6JDAbWQg9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k6JDAbWQg9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation Japan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-30T10:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2BfY1HgXabIYCcrPMp-OkJy5jgM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zJOq88x6tdU"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-07T16:30:10Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "The Last of Us - Building The Last of Us Episode 3: Cruel World",
+        "description": "https://www.playstation.com/the-last-of-us/ The Last of Us introduces players to a post-pandemic world full of humans and Infected ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zJOq88x6tdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zJOq88x6tdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zJOq88x6tdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-07T16:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lCcUkLaXzgFhZR_ioQHjj_qRc8k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MsoR9niX8tg"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-27T17:24:53Z",
+        "channelId": "UCzfaZDsef1ZfqcGMR7sNQ-w",
+        "title": "PLAYSTATION 5 UNBOXING ȘI PRIMUL JOC - Cavaleria.ro",
+        "description": "playstation5 #unboxing #experience Dacă nu ai timp să vizionezi avem și varianta text: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MsoR9niX8tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MsoR9niX8tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MsoR9niX8tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cavaleria.ro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-27T17:24:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VIsIvbxzXgycz3FTSZLXwvJbarU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N6gRBQZCZQ0"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T13:00:27Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "Cave Digger 2: Dig Harder - Launch Trailer | PS VR2 Games",
+        "description": "https://store.playstation.com/concept/10002212 Includes PSVR 2 only features such as adaptive triggers, advanced controller ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N6gRBQZCZQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N6gRBQZCZQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N6gRBQZCZQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T13:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EyWELMtgYSsBrPAxtAn9X7C8nQk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v7s-OHRH3a4"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-05T14:58:24Z",
+        "channelId": "UCXin0u5SrVEBjn5LhOoG97A",
+        "title": "PLAYSTATION, TÜRKİYE&#39;DEN GİDİYOR MU? STEAM FİYATLARI DAHA NE KADAR ARTACAK?!",
+        "description": "Dakikalar 00:00 Sony, Türkiye'den gidiyor mu? 06:24 Steam zamları ve bu işin nereye gideceği Bu videoda genel olarak ülkemiz ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v7s-OHRH3a4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v7s-OHRH3a4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v7s-OHRH3a4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Enis Kirazoglu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-05T14:58:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k5tBF0JlXWDk_1j4akMYmMwz6wk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wKg07t99zqg"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-05T12:13:15Z",
+        "channelId": "UCuXXg-_YKpbwTYXkNUqc_xw",
+        "title": "PlayStation Is Officially Preparing Us For Uncharted 5",
+        "description": "Subscribe to my channel: http://www.YouTube.com/RobinGaming?sub_confirmation=1 ▻ Subscribe to my reaction channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wKg07t99zqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wKg07t99zqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wKg07t99zqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RobinGaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-05T12:13:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_RwOrn61U5UnpWujkhcE25HTVyw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IdaciUB_YV8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-30T12:37:55Z",
+        "channelId": "UC6i4mzH3OPrZV0p64zoz-Ww",
+        "title": "Ao vivo do PS5: trazendo a você o extraordinário",
+        "description": "Últimas notícias Eventos extraordinários estão sendo vinculados ao aumento de estoque do PS5. Compre agora e explore ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IdaciUB_YV8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IdaciUB_YV8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IdaciUB_YV8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-30T12:37:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YWZrfRePVFcesPJJrJTa4OuR2uY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ndmz-6wi3f4"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-01T16:30:04Z",
+        "channelId": "UC6yzV_xgKn8r77FkcmZyMSg",
+        "title": "PlayStation Plus Monthly Games - February 2023 - PS4 &amp; PS5",
+        "description": "Your PlayStation Plus monthly games for February are Evil Dead: The Game, OlliOlli World, Destiny 2: Beyond Light and Mafia: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ndmz-6wi3f4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ndmz-6wi3f4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ndmz-6wi3f4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation Access",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-01T16:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MQYfF-fApVfZDtM4DYf8IEy-gIA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WVE25N9Af7Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-07T13:04:48Z",
+        "channelId": "UC7u9o8BHiJyH2_cef_nC7tQ",
+        "title": "Xbox vs Playstation Toothbrush Battle !!",
+        "description": "Let's Find Out Which Viral Video Game Toothbrush Will Clean My Stained Teeth Better!? SHOP HERE: https://fatglob.com Smile ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WVE25N9Af7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WVE25N9Af7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WVE25N9Af7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dental Digest",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-07T13:04:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W971u6YNWsKgRKjbHJ1tDSThXLo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J1XWUQDSP3c"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-06T17:09:00Z",
+        "channelId": "UC1R3yteq3HoSUIHQ7hp65XQ",
+        "title": "AZ ÁLMAINK JÁTÉKA 🔥 | Hogwarts Legacy #1 (Playstation 5)",
+        "description": "Lépj be a Roxfort Varázslóiskola ajtaján, és feltárul előtted a legendás Harry Potter univerzum a WB Games nyílt világú ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J1XWUQDSP3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J1XWUQDSP3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J1XWUQDSP3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nessaj Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-06T17:09:00Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+.container {
+  color: var(--blue20);
+  background-color: var(--black50);
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.title {
+  color: var(--white10);
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.content {
+  display: flex;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-top: 1.5rem;
+  margin-right: 0.75rem;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+}
