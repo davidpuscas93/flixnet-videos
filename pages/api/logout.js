@@ -12,23 +12,19 @@ export default async function logout(req, res) {
 
   try {
     const userId = await getUserIdFromJwtToken(token);
-
     removeTokenCookie(res);
-
-    console.log('USER ID: ', userId);
 
     try {
       if (userId) {
-        const response = await magicServer.users.logoutByIssuer(userId);
-        console.log({ response });
+        await magicServer.users.logoutByIssuer(userId);
       } else {
         console.log('User session not found, redirecting to login!');
       }
     } catch (error) {
-      console.log(`User session not found: ${error.message}`);
+      console.log(
+        `Could not log out of session: ${error.message}. Redirecting to login!`
+      );
     }
-
-    console.log('User logged out!');
 
     res.redirect(302, '/login');
     res.end();

@@ -58,6 +58,7 @@ const Navbar = () => {
       });
     } catch (error) {
       console.error(`Something went wrong while logging out: ${error}`);
+    } finally {
       router.push('/login');
     }
   };

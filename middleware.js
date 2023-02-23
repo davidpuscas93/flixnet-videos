@@ -22,7 +22,6 @@ export async function middleware(request, _) {
   if ((!token || !userId) && pathname !== '/login') {
     const url = request.nextUrl.clone();
     url.pathname = '/login';
-    console.log('URL ', url);
     return NextResponse.redirect(new URL(url));
   }
 }
