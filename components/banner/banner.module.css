@@ -93,6 +93,13 @@
   background-position: 50% 50%;
 }
 
+@media (max-width: 768px) {
+  .leftWrapper {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
 @media (min-width: 768px) {
   .leftWrapper {
     width: 40%;

@@ -16,7 +16,7 @@
   );
   width: 100%;
   z-index: 100;
-  max-height: 12vh;
+  max-height: 200px;
   box-shadow: var(--shadow30, 0 0 #0000), var(--ring-shadow, 0 0 #0000),
     var(--shadow30);
   composes: glass;
@@ -169,10 +169,6 @@
 }
 
 @media (min-width: 768px) {
-  .container {
-    min-height: 10vh;
-  }
-
   .wrapper {
     padding-left: 4rem;
     padding-right: 4rem;
